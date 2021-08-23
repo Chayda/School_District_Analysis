@@ -35,8 +35,11 @@ Analysis of test scores by school district using Python and Jupyter Notebook
 
 ### Replacing THS 9th grade scores affected the following:
 •	Math and reading scores by grade were not affected, as THS 9th grade scores were omitted but the remainder of the dataset stayed intact.
+
 •	Scores by school spending were not drastically affected. The range $585-629 had an original overall passing of 81% and with the THS grade 9s removed brought this spending bin to 90%. This is the only spending bin that had a noticeable change.
+
 •	There wasn’t much of a difference in scores by school size.
+
 •	Scores by school type also didn’t show much of a difference. Overall, the Charter schools had a higher overall passing percent than the district schools. THS is a charter school, but changing the data for this one school didn’t have a lot of weight on the overall passing for charter schools in general. 
 
 ## Summary:
