@@ -48,3 +48,5 @@ Analysis of test scores by school district using Python and Jupyter Notebook
 2.	The top five schools were all charter and the bottom five schools were all district school types.
 3.	Scores by grade were pretty consistent across, but when compared with overall passing percentages, which would indicate a larger standard deviation in the schools with lower overall passing percentages.
 
+#### Software/Tools:
+Python, Pandas, Jupyter Notebook
