@@ -1,7 +1,7 @@
 # School_District_Analysis
-Analysis of test scores by school district using Python and Jupyter Notebook
+Analysis of test scores by school district using Python, Pandas, NumPy and Jupyter Notebook
 
-## Overview:
+## Overview of Challenge:
 ### The purpose of this analysis was to replace the grade nine math and reading scores for one of the schools in the dataset – Thomas High School (THS) – with NaNs, due to evidence of academic dishonesty among this group. The school district analysis code was utilized, refactored, and re-run, with the Thomas High School ninth grade scores removed.
 
 ## Results:
